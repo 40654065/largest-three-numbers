@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.con{
+   
+        background-color: rgb(6, 10, 245);
+        color: rgb(250, 247, 253);
+        margin-left: 22%;
+        margin-right: 20%;
+        margin-top: 15%;
+        height: 30vh;
+        padding-left: 7%;
+        padding-top: 3%;
+        padding-bottom: 5%;
+        font-size: 20px;
+ 
+
+}
+#tut{
+    width: 100px;
+    height: 33px;
+    background-color: rgb(248, 57, 4);
+    color: rgb(251, 248, 248);
+    border-radius: 5px;
+}
